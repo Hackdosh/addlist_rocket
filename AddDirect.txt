@@ -1,0 +1,4 @@
+DOMAIN-KEYWORD,letsencrypt
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,qjcode.com
+DOMAIN-SUFFIX,cdgas.com
