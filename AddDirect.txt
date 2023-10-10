@@ -1,4 +1,8 @@
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,lencr.org
 DOMAIN-KEYWORD,letsencrypt
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,qjcode.com
 DOMAIN-SUFFIX,cdgas.com
