@@ -1,2 +1,0 @@
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN-SUFFIX,podcasts-lb.itunes-apple.com.akadns.net
