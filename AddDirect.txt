@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,global.quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
 IP-CIDR,193.182.111.0/24,no-resolve
 DOMAIN-SUFFIX,ip125.com
