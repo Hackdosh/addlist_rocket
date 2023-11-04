@@ -1,3 +1,4 @@
+IP-CIDR,193.182.111.0/24,no-resolve
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,jsonp-ip.com
 DOMAIN-SUFFIX,1-b.net
