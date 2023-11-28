@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,gs-loc.apple.com
 DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,ls.apple.com
