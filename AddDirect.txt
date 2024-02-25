@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,freeok.vip
+DOMAIN-SUFFIX,freeok.pro
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,gs-loc.apple.com
