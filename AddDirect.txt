@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,freeok.vip
 DOMAIN-SUFFIX,freeok.pro
 DOMAIN-SUFFIX,asuscomm.com
