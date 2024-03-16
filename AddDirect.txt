@@ -1,3 +1,6 @@
+DOMAIN-KEYWORD,bntrace
+DOMAIN-KEYWORD,bnbstatic
+DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,freeok.vip
 DOMAIN-SUFFIX,freeok.pro
