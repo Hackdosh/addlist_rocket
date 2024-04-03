@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,walletconnect
 DOMAIN-KEYWORD,nftstatic
 DOMAIN-KEYWORD,bntrace
