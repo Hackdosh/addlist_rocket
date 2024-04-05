@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,weather-map2.lb-apple.com.akadns.net
-DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
-DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,walletconnect
 DOMAIN-KEYWORD,nftstatic
