@@ -11,11 +11,11 @@ DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,freeok.vip
 DOMAIN-SUFFIX,freeok.pro
 DOMAIN-SUFFIX,asuscomm.com
-DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
-DOMAIN-SUFFIX,gs-loc.apple.com
-DOMAIN-SUFFIX,ls-apple.com.akadns.net
+#DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+#DOMAIN-SUFFIX,gs-loc.apple.com
+#DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,ls.apple.com
+#DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,ip125.com
