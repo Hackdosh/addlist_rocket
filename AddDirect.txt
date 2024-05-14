@@ -1,5 +1,4 @@
-DOMAIN-KEYWORD,jdpro
-DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,kiwivm.64clouds.com
 DOMAIN-KEYWORD,walletconnect
 DOMAIN-KEYWORD,nftstatic
 DOMAIN-KEYWORD,bntrace
