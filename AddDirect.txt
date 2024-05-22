@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,o1098464.ingest.sentry.io
 DOMAIN-SUFFIX,kiwivm.64clouds.com
 DOMAIN-KEYWORD,walletconnect
 DOMAIN-KEYWORD,nftstatic
