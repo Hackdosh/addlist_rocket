@@ -10667,10 +10667,10 @@ DOMAIN-SUFFIX,azooo.com
 DOMAIN-SUFFIX,azoyacdn.com
 DOMAIN-SUFFIX,azoyagroup.com
 DOMAIN-SUFFIX,azsjhf.com
-DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
-DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
-DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
-DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
+#DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
+#DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
+#DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuretouch.net
 DOMAIN-SUFFIX,azurew.com
 DOMAIN-SUFFIX,azureyun.com
@@ -14479,7 +14479,7 @@ DOMAIN-SUFFIX,cbd263.com
 DOMAIN-SUFFIX,cbdcn.com
 DOMAIN-SUFFIX,cbdio.com
 DOMAIN-SUFFIX,cbdjrsh.org
-DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
+#DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,cbe21.com
 DOMAIN-SUFFIX,cbea.com
 DOMAIN-SUFFIX,cbec365.com
@@ -18454,8 +18454,8 @@ DOMAIN-SUFFIX,coldlar.com
 DOMAIN-SUFFIX,colinbard.com
 DOMAIN-SUFFIX,colineapp.com
 DOMAIN-SUFFIX,colipu.com
-DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com
-DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
+#DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com
+#DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,college-ing.com
 DOMAIN-SUFFIX,colobu.com
 DOMAIN-SUFFIX,color-measure.com
@@ -19331,7 +19331,7 @@ DOMAIN-SUFFIX,ctjin.com
 DOMAIN-SUFFIX,ctjsoft.com
 DOMAIN-SUFFIX,ctkq.com
 DOMAIN-SUFFIX,ctlcdn.com
-DOMAIN-SUFFIX,ctldl.windowsupdate.com
+#DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,ctlife.tv
 DOMAIN-SUFFIX,ctmon.com
 DOMAIN-SUFFIX,ctn1986.com
@@ -20826,12 +20826,12 @@ DOMAIN-SUFFIX,dev-dh.com
 DOMAIN-SUFFIX,dev798.com
 DOMAIN-SUFFIX,devashen.com
 DOMAIN-SUFFIX,devask.net
-DOMAIN-SUFFIX,devblogs.microsoft.com
+#DOMAIN-SUFFIX,devblogs.microsoft.com
 DOMAIN-SUFFIX,devclub.cc
 DOMAIN-SUFFIX,develenv.com
 DOMAIN-SUFFIX,developer.dji.com
 DOMAIN-SUFFIX,developer.htcvive.com
-DOMAIN-SUFFIX,developer.microsoft.com
+#DOMAIN-SUFFIX,developer.microsoft.com
 DOMAIN-SUFFIX,developer.vive.com
 DOMAIN-SUFFIX,developers.pub
 DOMAIN-SUFFIX,devemi.com
@@ -21572,7 +21572,7 @@ DOMAIN-SUFFIX,dkzt.com
 DOMAIN-SUFFIX,dl-huahong.com
 DOMAIN-SUFFIX,dl-origin.ubnt.com
 DOMAIN-SUFFIX,dl-rc.com
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+#DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,dl.djicdn.com
 DOMAIN-SUFFIX,dl.ubnt.com
 DOMAIN-SUFFIX,dl0728.com
@@ -21852,7 +21852,7 @@ DOMAIN-SUFFIX,docn.net
 DOMAIN-SUFFIX,docpe.com
 DOMAIN-SUFFIX,docs.cdnetworks.com
 DOMAIN-SUFFIX,docs.djicdn.com
-DOMAIN-SUFFIX,docs.microsoft.com
+#DOMAIN-SUFFIX,docs.microsoft.com
 DOMAIN-SUFFIX,docs.oracle.com
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,docsj.com
@@ -22203,9 +22203,9 @@ DOMAIN-SUFFIX,downjoy.com
 DOMAIN-SUFFIX,downke.com
 DOMAIN-SUFFIX,downkr.com
 DOMAIN-SUFFIX,downkuai.com
-DOMAIN-SUFFIX,download.microsoft.com
-DOMAIN-SUFFIX,download.visualstudio.microsoft.com
-DOMAIN-SUFFIX,download.windowsupdate.com
+#DOMAIN-SUFFIX,download.microsoft.com
+#DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+#DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,downok.com
 DOMAIN-SUFFIX,downos.com
 DOMAIN-SUFFIX,downpp.com
@@ -22317,8 +22317,8 @@ DOMAIN-SUFFIX,dreammeta.net
 DOMAIN-SUFFIX,dreamo100.com
 DOMAIN-SUFFIX,dreampiggy.com
 DOMAIN-SUFFIX,dreams-travel.com
-DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
-DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
+#DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamswood.com
 DOMAIN-SUFFIX,dreamsz.net
 DOMAIN-SUFFIX,drearry.com
@@ -26217,7 +26217,7 @@ DOMAIN-SUFFIX,frytea.com
 DOMAIN-SUFFIX,fs-10010.com
 DOMAIN-SUFFIX,fs-ade.com
 DOMAIN-SUFFIX,fs-eliza.com
-DOMAIN-SUFFIX,fs.microsoft.com
+#DOMAIN-SUFFIX,fs.microsoft.com
 DOMAIN-SUFFIX,fs0757.com
 DOMAIN-SUFFIX,fs121.com
 DOMAIN-SUFFIX,fs1982.com
@@ -36118,8 +36118,8 @@ DOMAIN-SUFFIX,it918.com
 DOMAIN-SUFFIX,it985.com
 DOMAIN-SUFFIX,it9g.com
 DOMAIN-SUFFIX,itab.link
-DOMAIN-SUFFIX,itacademy.download.prss.microsoft.com
-DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,itacademy.download.prss.microsoft.com
+#DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,itaic.org
 DOMAIN-SUFFIX,itailai.com
 DOMAIN-SUFFIX,itaiping.com
@@ -42009,7 +42009,7 @@ DOMAIN-SUFFIX,leaping.games
 DOMAIN-SUFFIX,leapmie.com
 DOMAIN-SUFFIX,leapmotor.com
 DOMAIN-SUFFIX,learn-quantum.com
-DOMAIN-SUFFIX,learn.microsoft.com
+#DOMAIN-SUFFIX,learn.microsoft.com
 DOMAIN-SUFFIX,learndiary.com
 DOMAIN-SUFFIX,learnfans.com
 DOMAIN-SUFFIX,learnfuture.com
@@ -42325,7 +42325,7 @@ DOMAIN-SUFFIX,lewenba.cc
 DOMAIN-SUFFIX,lewenn.com
 DOMAIN-SUFFIX,lewenxsw.com
 DOMAIN-SUFFIX,lewifi.com
-DOMAIN-SUFFIX,lex.download.prss.microsoft.com
+#DOMAIN-SUFFIX,lex.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexar.com
 DOMAIN-SUFFIX,lexiang-asset.com
 DOMAIN-SUFFIX,lexiangla.com
@@ -42333,7 +42333,7 @@ DOMAIN-SUFFIX,lexiangzuji.com
 DOMAIN-SUFFIX,lexin.com
 DOMAIN-SUFFIX,lexinchina.com
 DOMAIN-SUFFIX,lexpq.com
-DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexue.com
 DOMAIN-SUFFIX,lexueying.com
 DOMAIN-SUFFIX,lexun.com
@@ -45261,10 +45261,10 @@ DOMAIN-SUFFIX,mblaudio.com
 DOMAIN-SUFFIX,mbldbb.com
 DOMAIN-SUFFIX,mbmcus.com
 DOMAIN-SUFFIX,mbokee.com
-DOMAIN-SUFFIX,mbs.download.prss.microsoft.com
+#DOMAIN-SUFFIX,mbs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mbsifu.com
 DOMAIN-SUFFIX,mbsky.com
-DOMAIN-SUFFIX,mbsuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,mbsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,mbtxtt.cc
 DOMAIN-SUFFIX,mbwxzx.hk
 DOMAIN-SUFFIX,mbxt.net
@@ -47022,9 +47022,9 @@ DOMAIN-SUFFIX,mpll.cc
 DOMAIN-SUFFIX,mplus.tech
 DOMAIN-SUFFIX,mpmqoj.com
 DOMAIN-SUFFIX,mpmw.com
-DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
-DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com
-DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
+#DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com
+#DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com
 DOMAIN-SUFFIX,mpoa.vip
 DOMAIN-SUFFIX,mpopkart.com
 DOMAIN-SUFFIX,mpweixin.net
@@ -47084,10 +47084,10 @@ DOMAIN-SUFFIX,mschcdn.com
 DOMAIN-SUFFIX,mscodecloud.com
 DOMAIN-SUFFIX,mscto.com
 DOMAIN-SUFFIX,msddp.com
-DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
+#DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
 DOMAIN-SUFFIX,msdn.hk
 DOMAIN-SUFFIX,msdn.im
-DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
+#DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
 DOMAIN-SUFFIX,msfpay.com
 DOMAIN-SUFFIX,msgcarry.com
 DOMAIN-SUFFIX,msgtjj.com
@@ -47109,8 +47109,8 @@ DOMAIN-SUFFIX,msmbjp.com
 DOMAIN-SUFFIX,mspacecd.com
 DOMAIN-SUFFIX,mspaper.my
 DOMAIN-SUFFIX,mspharm.com
-DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com
-DOMAIN-SUFFIX,msproductuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com
+#DOMAIN-SUFFIX,msproductuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,msrtvu.net
 DOMAIN-SUFFIX,mssjz.com
 DOMAIN-SUFFIX,msstatic.com
@@ -47669,8 +47669,8 @@ DOMAIN-SUFFIX,myun.tv
 DOMAIN-SUFFIX,myunke.com
 DOMAIN-SUFFIX,myunying.com
 DOMAIN-SUFFIX,myvipsalon.com
-DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
-DOMAIN-SUFFIX,myvsuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
+#DOMAIN-SUFFIX,myvsuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,mywakao.com
 DOMAIN-SUFFIX,mywayboo.net
 DOMAIN-SUFFIX,myweb888.com
@@ -49396,8 +49396,8 @@ DOMAIN-SUFFIX,oelove.com
 DOMAIN-SUFFIX,oemao.com
 DOMAIN-SUFFIX,oempromo.com
 DOMAIN-SUFFIX,oemresource.com
-DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
-DOMAIN-SUFFIX,oemsocuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
+#DOMAIN-SUFFIX,oemsocuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,oeob.net
 DOMAIN-SUFFIX,oerv.wiki
 DOMAIN-SUFFIX,oesell.com
@@ -49415,10 +49415,10 @@ DOMAIN-SUFFIX,office-peixun.com
 DOMAIN-SUFFIX,office8hour.com
 DOMAIN-SUFFIX,officebai.com
 DOMAIN-SUFFIX,officebay.net
-DOMAIN-SUFFIX,officecdn.microsoft.com
+#DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,officectrl.com
-DOMAIN-SUFFIX,officemkt.download.prss.microsoft.com
-DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com
+#DOMAIN-SUFFIX,officemkt.download.prss.microsoft.com
+#DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,officese.com
 DOMAIN-SUFFIX,officesoftcn.com
 DOMAIN-SUFFIX,officeweb365.com
@@ -49977,7 +49977,7 @@ DOMAIN-SUFFIX,osp.io
 DOMAIN-SUFFIX,osportsmedia.com
 DOMAIN-SUFFIX,ospp.com
 DOMAIN-SUFFIX,osredm.com
-DOMAIN-SUFFIX,osrelease.download.prss.microsoft.com
+#DOMAIN-SUFFIX,osrelease.download.prss.microsoft.com
 DOMAIN-SUFFIX,oss-cn-beijing-aliyuncs.com
 DOMAIN-SUFFIX,oss.link
 DOMAIN-SUFFIX,oss.so
@@ -55037,7 +55037,7 @@ DOMAIN-SUFFIX,rshaoapp.com
 DOMAIN-SUFFIX,rshdsz.com
 DOMAIN-SUFFIX,rskjx.com
 DOMAIN-SUFFIX,rslicai.com
-DOMAIN-SUFFIX,rsm.download.prss.microsoft.com
+#DOMAIN-SUFFIX,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,rsng.net
 DOMAIN-SUFFIX,rsplcdcs.com
 DOMAIN-SUFFIX,rspwj.com
@@ -56116,7 +56116,7 @@ DOMAIN-SUFFIX,sdwenlian.com
 DOMAIN-SUFFIX,sdwgyy.com
 DOMAIN-SUFFIX,sdwlsym.com
 DOMAIN-SUFFIX,sdwscgs.com
-DOMAIN-SUFFIX,sdx.microsoft.com
+#DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,sdxietong.com
 DOMAIN-SUFFIX,sdxinboao.com
 DOMAIN-SUFFIX,sdxitong.com
@@ -58910,7 +58910,7 @@ DOMAIN-SUFFIX,softhome.cc
 DOMAIN-SUFFIX,softmall.net
 DOMAIN-SUFFIX,softscdn.com
 DOMAIN-SUFFIX,softtest.com
-DOMAIN-SUFFIX,software.download.prss.microsoft.com
+#DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,softwarechn.com
 DOMAIN-SUFFIX,softwarecn.com
 DOMAIN-SUFFIX,softwarekeyclub.com
@@ -59697,8 +59697,8 @@ DOMAIN-SUFFIX,storage-asset.msi.com
 DOMAIN-SUFFIX,storagesemicon.com
 DOMAIN-SUFFIX,store.dji.com
 DOMAIN-SUFFIX,storeapi.net
-DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
-DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+#DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
+#DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,storkapp.me
 DOMAIN-SUFFIX,stormorai.com
 DOMAIN-SUFFIX,stormsend1.djicdn.com
@@ -60128,7 +60128,7 @@ DOMAIN-SUFFIX,suqicloud.com
 DOMAIN-SUFFIX,suqishi.com
 DOMAIN-SUFFIX,suqnn.com
 DOMAIN-SUFFIX,suremotoo.site
-DOMAIN-SUFFIX,surface.download.prss.microsoft.com
+#DOMAIN-SUFFIX,surface.download.prss.microsoft.com
 DOMAIN-SUFFIX,surfacetreatmenttechnology.com
 DOMAIN-SUFFIX,surfcg.com
 DOMAIN-SUFFIX,surgerycast.com
@@ -65259,7 +65259,7 @@ DOMAIN-SUFFIX,vista123.com
 DOMAIN-SUFFIX,vistarladera.com
 DOMAIN-SUFFIX,vistastory.com
 DOMAIN-SUFFIX,visualchina.com
-DOMAIN-SUFFIX,visualstudio.download.prss.microsoft.com
+#DOMAIN-SUFFIX,visualstudio.download.prss.microsoft.com
 DOMAIN-SUFFIX,visvachina.com
 DOMAIN-SUFFIX,vitagou.com
 DOMAIN-SUFFIX,vitagou.hk
@@ -65320,7 +65320,7 @@ DOMAIN-SUFFIX,vlinke.com
 DOMAIN-SUFFIX,vlion.mobi
 DOMAIN-SUFFIX,vlong.tv
 DOMAIN-SUFFIX,vlongbiz.com
-DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
+#DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
 DOMAIN-SUFFIX,vlss.com
 DOMAIN-SUFFIX,vlssu.com
 DOMAIN-SUFFIX,vm.sg
@@ -65398,7 +65398,7 @@ DOMAIN-SUFFIX,volcvideo.com
 DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volcwaf.com
 DOMAIN-SUFFIX,voldp.com
-DOMAIN-SUFFIX,volic.download.prss.microsoft.com
+#DOMAIN-SUFFIX,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,volit.com
 DOMAIN-SUFFIX,volmoe.com
 DOMAIN-SUFFIX,voltmemo.com
@@ -65498,7 +65498,7 @@ DOMAIN-SUFFIX,vsaker.com
 DOMAIN-SUFFIX,vsane.com
 DOMAIN-SUFFIX,vsbclub.com
 DOMAIN-SUFFIX,vsbuys.com
-DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
+#DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,vscops.com
 DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,vsens.com
@@ -65619,7 +65619,7 @@ DOMAIN-SUFFIX,vynior.com
 DOMAIN-SUFFIX,vysj.com
 DOMAIN-SUFFIX,vyuan8.com
 DOMAIN-SUFFIX,vyujz.com
-DOMAIN-SUFFIX,vz.download.prss.microsoft.com
+#DOMAIN-SUFFIX,vz.download.prss.microsoft.com
 DOMAIN-SUFFIX,vz41.com
 DOMAIN-SUFFIX,vzan.cc
 DOMAIN-SUFFIX,vzan.com
@@ -67451,7 +67451,7 @@ DOMAIN-SUFFIX,wincn.com
 DOMAIN-SUFFIX,wincome.group
 DOMAIN-SUFFIX,wind.ink
 DOMAIN-SUFFIX,wind.moe
-DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
+#DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,windcoder.com
 DOMAIN-SUFFIX,windhamchina.com
 DOMAIN-SUFFIX,windin.com
@@ -68157,8 +68157,8 @@ DOMAIN-SUFFIX,wscloudcdn.com
 DOMAIN-SUFFIX,wscloudcdn.org
 DOMAIN-SUFFIX,wscloudsec.com
 DOMAIN-SUFFIX,wscoder.com
-DOMAIN-SUFFIX,wscont1.apps.microsoft.com
-DOMAIN-SUFFIX,wscont2.apps.microsoft.com
+#DOMAIN-SUFFIX,wscont1.apps.microsoft.com
+#DOMAIN-SUFFIX,wscont2.apps.microsoft.com
 DOMAIN-SUFFIX,wscrm.net
 DOMAIN-SUFFIX,wscso.com
 DOMAIN-SUFFIX,wscstrace.com
@@ -68571,7 +68571,7 @@ DOMAIN-SUFFIX,www.gov.mo
 DOMAIN-SUFFIX,www.htc.com
 DOMAIN-SUFFIX,www.htcsense.com
 #DOMAIN-SUFFIX,www.linkedin.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/335
-DOMAIN-SUFFIX,www.microsoft.com
+#DOMAIN-SUFFIX,www.microsoft.com
 DOMAIN-SUFFIX,www.nike.com
 DOMAIN-SUFFIX,www.redhat.com
 DOMAIN-SUFFIX,www.samsung.com
