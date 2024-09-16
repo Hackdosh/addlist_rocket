@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,(null\)
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
