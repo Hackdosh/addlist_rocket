@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
