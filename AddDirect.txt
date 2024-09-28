@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ip.im
+DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip-api.com
