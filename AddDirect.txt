@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-KEYWORD,dnschecker
 DOMAIN-KEYWORD,ip-lookup
 DOMAIN-KEYWORD,my-ip
@@ -18,6 +19,9 @@ DOMAIN-KEYWORD,ipinfo
 DOMAIN-KEYWORD,ifconfig
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,asuscomm.com
