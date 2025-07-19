@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,httpbin.org
+DOMAIN-SUFFIX,geojs.io
+DOMAIN-SUFFIX,ip125.com
 DOMAIN-KEYWORD,jsonp-ip
 DOMAIN-KEYWORD,whatsmyip
 DOMAIN-KEYWORD,myip-address
@@ -33,5 +36,4 @@ DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cloudflare.com
