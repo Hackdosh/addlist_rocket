@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,whatsmyip
 DOMAIN-KEYWORD,myip-address
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,miip.my
+DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iplark.com
 DOMAIN-KEYWORD,myip.com
 DOMAIN-SUFFIX,myip.la
