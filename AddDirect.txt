@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,ipv9.top
+DOMAIN-SUFFIX,contabo.net
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,coc.li
 DOMAIN-SUFFIX,gcdn.co
