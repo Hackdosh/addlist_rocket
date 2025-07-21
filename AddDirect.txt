@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,coc.li
+DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,httpbin.org
 DOMAIN-SUFFIX,geojs.io
 DOMAIN-SUFFIX,ip125.com
