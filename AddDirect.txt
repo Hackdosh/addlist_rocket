@@ -1,3 +1,6 @@
+DOMAIN-KEYWORD,mybalancer
+DOMAIN-KEYWORD,cachefly
+DOMAIN-KEYWORD,keycdn
 DOMAIN-SUFFIX,ip.nf
 DOMAIN-SUFFIX,seeip.org
 DOMAIN-KEYWORD,useragentinfo
@@ -11,7 +14,7 @@ DOMAIN-KEYWORD,icanhazip
 DOMAIN-KEYWORD,ipecho
 DOMAIN-SUFFIX,ipip.me
 DOMAIN-SUFFIX,fbi.gov
-DOMAIN-SUFFIX,aapq.net
+DOMAIN-KEYWORD,aapq.net
 DOMAIN-SUFFIX,ipv9.top
 DOMAIN-SUFFIX,contabo.net
 #DOMAIN-SUFFIX,doubleclick.net
@@ -54,6 +57,6 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
-DOMAIN-SUFFIX,gcore.com
-DOMAIN-SUFFIX,vercel.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,gcore
+DOMAIN-KEYWORD,vercel
+DOMAIN-KEYWORD,cloudflare
