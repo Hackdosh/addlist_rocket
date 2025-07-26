@@ -57,6 +57,6 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
-DOMAIN-KEYWORD,gcore
-DOMAIN-KEYWORD,vercel
-DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,cloudflare.com
