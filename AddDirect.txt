@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
-#DOMAIN-SUFFIX,gcore.com
-#DOMAIN-SUFFIX,vercel.com
-#DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,board.zash.run.place
