@@ -66,6 +66,7 @@ DOMAIN-KEYWORD,ifconfig
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
