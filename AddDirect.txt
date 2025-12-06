@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,coc.li
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,aapq.net,DIRECT
+DOMAIN-SUFFIX,1-b.net,DIRECT
+DOMAIN-SUFFIX,appspot.com,DIRECT
 DOMAIN-KEYWORD,coding.tools
 DOMAIN-SUFFIX,ip.network
 DOMAIN-KEYWORD,geolocation
@@ -6,7 +12,7 @@ DOMAIN-KEYWORD,iptoolbox
 DOMAIN,ipv4.lvhai.org
 DOMAIN-SUFFIX,biantailajiao.com
 IP-CIDR,1.0.0.1/32
-DOMAIN-KEYWORD,workers.dev
+DOMAIN,workers.dev
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-KEYWORD,whoer
