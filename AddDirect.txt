@@ -72,3 +72,4 @@ DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN,challenges.cloudflare.com
 DOMAIN-SUFFIX,board.zash.run.place
+DOMAIN-SUFFIX,metacubexd.pages.dev
